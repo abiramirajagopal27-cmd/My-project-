@@ -1,22 +1,16 @@
-# 👋 Hello!
+
 
 I'm Abirami  
 
-🎓 ECE Student (1st Year)  
+ECE Student (1st Year)  
 
----
-
-## 🚀 About This Project
+ About This Project
 This is my first GitHub repository created for learning purpose.
-
----
-
-## 💡 About Me
+  
+  About Me
 - Interested in technology  
 - Learning programming  
 - Exploring GitHub  
 
----
-
-## 🎯 Goal
+ Goal
 To improve my coding skills and learn new technologies.
