@@ -1,10 +1,22 @@
-Name: Abirami
-Department: Electronics and Communication Engineering
-Year: 1st Year
+# 👋 Hello!
 
-Skills:
-- Basic Programming
-- Learning GitHub
+I'm Abirami  
 
-About Me:
-I am interested in technology and learning new skills.
+🎓 ECE Student (1st Year)  
+
+---
+
+## 🚀 About This Project
+This is my first GitHub repository created for learning purpose.
+
+---
+
+## 💡 About Me
+- Interested in technology  
+- Learning programming  
+- Exploring GitHub  
+
+---
+
+## 🎯 Goal
+To improve my coding skills and learn new technologies.
